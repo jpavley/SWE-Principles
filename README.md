@@ -22,6 +22,23 @@ I created this list of principles for myself, so that I could be better and so t
 
 I need to practice what I preach.
 
+## Principles and Values
+
+It's common for the words _principle_ and _value_ to be used interchangeably but I believe each represents distinct concepts for talking about what we as humans believe to be true and how we aspire to behave.
+
+For example, that that is only one human species is a fact of science and principle the human condition. That all people are created equal endowed with "unalienable rights; that among these are life, liberty, and the pursuit of happiness" is a value that we work hard to realize in our work and lives.
+
+Values rooted in principles generally persist over time while values rooted in opinion tend to fade over time. Because we understand the principles of human biology we realize that women are the equals of men, and that we must reject the values of cultures where principles are not respected.
+
+I think it's the same for software engineering. When our values (simplicity, agility, iteration) are based in principles we get better,more reliable software. When our values are based on personal opinions
+we get fads, failures, and make phoney progress.
+
+I hope to be pretty rigorous about operating principles from opinions and focusing on principles and not values. There are enough statements of values across the Internet when it comes to software engineering. My personal opinions would just add noise to a noisy world.
+
+Like triangles, evolution, and gravity, _principles require observation and testing_ to be discovered and boiled down to their essence. I hope to do this for software engineering principles for infrastructure, source code, development process, logical design, software security, development culture, product design, product delivery, collaboration, and management.
+
+As these principles are discovered and not invented I hope that "I" becomes a "we" and that more software engineers just me participate in this passion project.
+
 ## Credits and Inspirations
 
 ## Roadmap
