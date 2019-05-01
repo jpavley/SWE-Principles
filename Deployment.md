@@ -7,9 +7,9 @@
   - Two Pizza Teams
 - Automation
   - CI/CD
-     - Automated testing
-     - Automated governance
-     - Automated Deployment
+    - Automated testing
+    - Automated governance
+    - Automated Deployment
   - Mono repo
   - Build environment
   - Test driven development
