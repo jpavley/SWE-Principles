@@ -1,9 +1,9 @@
 # Source Code
 
 - Internal Open Source
-
-- Well maintained code repo
-- Available to anyone in the company
+- Well maintained repo
+- Monorepo
+- Open repo
 - Complete documentation
 - Shared ownership
 - Pull requests
