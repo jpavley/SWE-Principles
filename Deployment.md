@@ -1,4 +1,4 @@
-# Deployment Process
+# Deployment
 
 - Collaboration
     - Chat Ops
