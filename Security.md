@@ -1,0 +1,24 @@
+# Security (OWASP)
+
+- Web 2017
+  - Injection Flaws (SQL, OS, LDAP)
+  - Broken Authentication and Session Mgt
+  - Sensitive Data Exposure
+  - XML External Entity (XXE)
+  - Broken Access Control
+  - Security Misconfigurations
+  - Cross-Site Scripting (XSS)
+  - Insecure Deserialization
+  - Using Components with Vulnerabilities
+  - Insufficient Logging & Monitoring
+- Mobile 2016
+  - Improper Platform Usage
+  - Insecure Data Storage and Leakage
+  - Insecure Communications (Cleartext)
+  - Insecure Authentication (Session Mgt)
+  - Insufficient Cryptography (TLS, SSL)
+  - Insecure Authorization (Client-side Auth)
+  - Client Code Quality (Buffer overflows)
+  - Code Tampering (Binary Patching)
+  - Reverse Engineering (Hacker Tools)
+  - Extraneous Functionality (Backdoors)
