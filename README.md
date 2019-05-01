@@ -41,4 +41,6 @@ As these principles are discovered and not invented I hope that "I" becomes a "w
 
 ## Credits and Inspirations
 
-## Roadmap
+## How to Contribute
+
+## License
