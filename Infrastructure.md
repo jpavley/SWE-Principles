@@ -1,6 +1,9 @@
-# Infrastructure
+# Infrastructure (Cloud)
 
 - Infrastructure as Code
+  - Policies
+  - Scripts
+  - Templates
 - Containerization
 - Self-service
 - Auto-scaling
