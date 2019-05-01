@@ -1,0 +1,27 @@
+# Deployment Process
+
+- Collaboration
+    - Chat Ops
+    - Pair Programming
+    - Feature Teams
+    - Two Pizza Teams
+- Automation
+    - CI/CD
+        - Automated testing
+        - Automated governance
+        - Automated Deployment
+    - Mono repo
+    - Build environment
+    - Test driven development
+- Lean
+    - Document cost savings
+    - Eliminate unneeded processes
+    - Re-deploy unneeded resources
+    - Drive for efficiency
+- Measurement
+    - KPIs
+    - SLOs
+    - SLAs
+- Sharing
+    - Dashboard Ops
+    - Documentation
