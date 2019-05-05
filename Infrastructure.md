@@ -37,4 +37,3 @@ _Cloud_ in not a principle it's a _strategy_ based on several principles:
 ### Multi-tier Storage
 
 ### Virtual Development Environments
-
