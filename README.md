@@ -1,4 +1,4 @@
-# SWE Principles
+# SWE Principles, Values, & Strategies
 
 ## Introduction
 
