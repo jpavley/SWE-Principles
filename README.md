@@ -52,7 +52,7 @@ I hope to be pretty rigorous about separating principles, values, and strategies
 
 Like the principles that underlie Geometry, Biology, and Physics (triangles, evolution, and gravity), software engineering _principles require observation and testing_ to be discovered and boiled down to their essence. From these verifiable principles I hope to select beneficial values that create a highly functional software engineering culture. From these utilitarian values I hope to affirm successful strategies that result in engaged engineers, great code, reliable software, and happy users.
 
-I hope to do this for the software engineering activities that underlie infrastructure, source code, development process, logical design, software security, development culture, product design, product delivery, collaboration, and management.
+I hope to do this for the software engineering activities that underlie infrastructure, source code, development process, logical design (architecture), software security, development culture, product design, product delivery (communication, collaboration), and management.
 
 As these principles are discovered and not invented I hope that "I" becomes a "we" and that more software engineers just me participate in this passion project.
 
