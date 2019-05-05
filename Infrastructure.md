@@ -16,24 +16,33 @@ _Cloud_ in not a principle it's a _strategy_ based on several principles:
 
 ### Infrastructure as Code
 
-- Policies
-- Scripts
-- Templates
+### Automation
+
+- Self-service
+- Self-healing
+
+### Low-Code
+
+- Native
+
+### Adjacency
+
+- Cloud Storage
+
+## Cloud Strategies
 
 ### Containerization
 
-### Self-service
-
 ### Auto-scaling
 
-### Self-healing
-
 ### Serverless
-
-### Cloud Native
-
-### Cloud Storage
 
 ### Multi-tier Storage
 
 ### Virtual Development Environments
+
+### Policies
+
+### Scripts
+
+### Templates
