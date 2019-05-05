@@ -1,4 +1,4 @@
-# Discussion: Principles, Values, Strategies
+# Discussion of SWE Principles, Values, Strategies
 
 It's common for the words _principle_, _value_, and _strategy_ to be used interchangeably but I believe each represents distinct concepts for talking about what we as humans believe to be true, how we aspire to behave, and how we put our beliefs and behaviors into action.
 
@@ -14,7 +14,7 @@ Strategies rooted in values are generally more effective over the long term than
 
 ## Application of Principles, Values, Strategies to SWE
 
-I think it's the same for software engineering. When our values (simplicity, agility,iteration) are based in principles (Moore's Law, UTM, Economies of Scale, and UNIX Philosophy) we get better, more reliable software. When our values are based on personal opinions we get fads, failures, and make phoney progress.
+I think it's the same for software engineering. When our values (simplicity, agility,iteration) are based in principles (Moore's Law, UTM, Economies of Scale, and UNIX Philosophy) we get better, more reliable software strategies. When our values are based on personal opinions we get fads, failures, and make phoney progress.
 
 I hope to be pretty rigorous about separating principles, values, and strategies from opinions, shortcuts, and tactics. There are enough statements of opinion across the Internet when it comes to software engineering. My personal opinions would just add noise to a noisy world.
 

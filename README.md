@@ -13,6 +13,12 @@ See [Introduction to SWE Principles, Values, Strategies](text/Introduction.md)
 
 ## Discussion
 
+- It's common for the words _principle_, _value_, and _strategy_ to be used interchangeably.
+- Verifiable principles, beneficial values, effective strategies.
+- When our values are based in principles we get better, more reliable software strategies.
+
+See [Discussion of SWE Principles, Values, Strategies](text/Discussion.md)
+
 ## How to Contribute
 
 ## Code of Conduct
