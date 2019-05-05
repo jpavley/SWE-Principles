@@ -6,8 +6,10 @@ Software Engineering Principles, Values, Strategies
 
 ## Discussion
 
-## Credits and Inspirations
-
 ## How to Contribute
 
+## Code of Conduct
+
 ## License
+
+## Credits and Inspirations
