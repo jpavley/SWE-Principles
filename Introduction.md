@@ -2,7 +2,7 @@
 
 Software is "eating the world"[1] and we're still not very good at software engineering. While we have a great body of thought leadership, best practices, patterns, and anti-patterns, in the day-to-day hustle of getting software to market we generally ignore this body of wisdom and do what we must to meet our goals and objectives. We ignore these ideas about how to ensure software quality, performance, reliability, and safety with good reason. It takes time to deliver software and the world is demanding more software than ever! We have to code fast, we have to code efficiently, and we have a countless more features to release!
 
-### Bits to Atoms
+## Bits to Atoms
 
 As software has moved from dominion over "the world of bits to the world of atoms"[2] the repercussions of hasty, thoughtless, or misguided software development and delivery has gone from crashed computers to crashed cars. Security flaws can ruin lives and potentially alter the course of democracies. Tech debt, the mountain of hacks, bugs, and poor logical design decisions left behind in the mad rush to build the next startup unicorn or just get that SAP implementation out on time has become debt that is dragging all of us down across the globe.
 
@@ -10,7 +10,7 @@ For decades software engineers and computer scientists have asked for (and sugge
 
 Unfortunately, there are several impediments blocking the adoption of a software engineering ethic.
 
-### Blockers
+## Blockers
 
 First, software engineering is not a profession, like medicine, law, or even plumbing. We don't have hundreds of years of traditions. We don't have clear definitions, and we keep evolving what is done when we make software. Perhaps, in hundreds of years, software engineering will settle down to a clear set of practices with widely agreed to principles, as we have with other branches of engineering, arts, and sciences. But no doubt by then, AI will do most if not all of the software engineering and we need to ensure the AIs are designed with a code of ethics in mind.
 
@@ -18,7 +18,7 @@ Second, software engineers are usually the least politically important members o
 
 Finally, it's not clear what that code of ethics and principles should be. Most of the sciences, arts, and engineering professions are ultimately controlled not by ethics but by the laws of physics. Perhaps bridges are built well because civil engineers are ethical and their managers are ethical but it's much more likely that bridges are built well because otherwise they would fall down. Doctors are in the same boat as bridge builders--a patient who dies from an unethical treatment is a pretty strong signal that something is wrong! Software, by it's dynamic nature is hard to qualify. It's difficult to say which principles led to the success of a software product and whether that product is good or bad for society. There are always more bugs and there are always unintended consequences. Ask Uber[5], Twitter[6], and Volkswagen[7] if you need specific examples.
 
-### Starting from First Principles
+## Starting from First Principles
 
 So then, why bother? Why have I compiled a list of software engineering principles, values, and strategies that I hope others will improve and follow and the result will be better, safer, more reliable, and more humane software?
 
