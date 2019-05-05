@@ -1,12 +1,14 @@
-# SWE Principles, Values, Strategies
+# SWE PVS
+
+Software Engineering Principles, Values, Strategies
 
 ## Introduction
 
-## Principles, Values, and Strategies
+## Discussion
 
 It's common for the words _principle_, _value_, and _strategy_ to be used interchangeably but I believe each represents distinct concepts for talking about what we as humans believe to be true, how we aspire to behave, and how we put our beliefs and behaviors into action.
 
-### Differentiating Principles, Values, and Strategies
+### Differentiating Principles, Values, Strategies
 
 For example, that that is only one human species is a fact of science and principle the human condition. That all people are created equal endowed with "unalienable rights; that among these are life, liberty, and the pursuit of happiness" is a value that we work hard to realize in our work and lives. That we have laws in place to ensure that we hold ourselves accountable to the principle of _one human species_ and the value of _unalienable right_ is strategy.
 
@@ -16,7 +18,7 @@ Values rooted in principles generally persist over time while values rooted in o
 
 Strategies rooted in values are generally more effective over the long term than strategies rooted in happenstance. I would argue that value-less strategics are in point of fact mere tactics, effective only for a short span of time. Because we have created strategies based on beneficial values we get maximize the benefits of contributions and problem solving from all our employees, women and men, historically advantaged and disadvantaged, able-bodied and differently abled.
 
-### Application of Principles, Values, and Strategies to SWE
+### Application of Principles, Values, Strategies to SWE
 
 I think it's the same for software engineering. When our values (simplicity, agility,iteration) are based in principles (Moore's Law, UTM, Economies of Scale, and UNIX Philosophy) we get better, more reliable software. When our values are based on personal opinions we get fads, failures, and make phoney progress.
 
