@@ -10,9 +10,9 @@ _Cloud_ in not a principle it's a _strategy_ based on several principles:
 
 ### Economies of Scale
 
-### Cloud Values
-
 ### UNIX Philosophy
+
+## Cloud Values
 
 ### Infrastructure as Code
 
