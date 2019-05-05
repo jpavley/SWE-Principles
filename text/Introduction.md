@@ -1,4 +1,4 @@
-# Introduction: SWE Principles, Values, Strategies
+# Introduction to SWE Principles, Values, Strategies
 
 Software is "eating the world"[1] and we're still not very good at software engineering. While we have a great body of thought leadership, best practices, patterns, and anti-patterns, in the day-to-day hustle of getting software to market we generally ignore this body of wisdom and do what we must to meet our goals and objectives. We ignore these ideas about how to ensure software quality, performance, reliability, and safety with good reason. It takes time to deliver software and the world is demanding more software than ever! We have to code fast, we have to code efficiently, and we have a countless more features to release!
 
@@ -8,9 +8,9 @@ As software has moved from dominion over "the world of bits to the world of atom
 
 For decades software engineers and computer scientists have asked for (and suggested) a code of ethics for software developers to follow. The hope is that just other professions police themselves, as doctors do with the Hippocratic Oath[3] and lawyers do with their Attorney's Code[4], software developers armed with as set of principles will refuse to do harm or malicious hacks at the request of their employers (even if they are self-employed).
 
-Unfortunately, there are several impediments blocking the adoption of a software engineering ethic.
-
 ## Blockers
+
+Unfortunately, there are several impediments blocking the adoption of a software engineering ethic.
 
 First, software engineering is not a profession, like medicine, law, or even plumbing. We don't have hundreds of years of traditions. We don't have clear definitions, and we keep evolving what is done when we make software. Perhaps, in hundreds of years, software engineering will settle down to a clear set of practices with widely agreed to principles, as we have with other branches of engineering, arts, and sciences. But no doubt by then, AI will do most if not all of the software engineering and we need to ensure the AIs are designed with a code of ethics in mind.
 
