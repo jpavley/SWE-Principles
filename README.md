@@ -40,4 +40,11 @@ See [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## License
 
+- MIT License
+- Just preserve the copyright and license notices
+- OK to modify and distribute
+- OK for private and commerical use
+
+See [License](LICENSE)
+
 ## Credits and Inspirations
