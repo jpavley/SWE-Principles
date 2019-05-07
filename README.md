@@ -23,7 +23,14 @@ See [Discussion of SWE Principles, Values, Strategies](text/Discussion.md)
 
 ## Code of Conduct
 
-This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>
+- Our Pledge
+- Our Standards
+- Our Responsibilies
+- Scope
+- Enforcement
+- Attribution: This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>
+
+See []()
 
 ## License
 
