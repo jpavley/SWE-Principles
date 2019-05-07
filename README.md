@@ -21,6 +21,12 @@ See [Discussion of SWE Principles, Values, Strategies](text/Discussion.md)
 
 ## How to Contribute
 
+- What we're looking for
+- Ground Rules
+- Making Contribution
+
+See [How to Contribute](CONTRIBUTING.md)
+
 ## Code of Conduct
 
 - Our Pledge
