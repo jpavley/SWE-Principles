@@ -44,7 +44,6 @@ See [SWE PVS Foundational Principles](text/Foundations.md)
 
 See [SWE PVS Table of Contents](text/TOC.md)
 
-
 ## How to Contribute
 
 - What we're looking for
