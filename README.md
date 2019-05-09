@@ -40,7 +40,7 @@ See [SWE PVS Foundational Principles](text/Foundations.md)
 - Quality
 - Security
 
-See [SWE PVS Table of Contents](text/TOC.md)
+See [SWE PVS Table of Contents](TOC.md)
 
 ## How to Contribute
 
