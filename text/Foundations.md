@@ -1,13 +1,5 @@
 # SWE Foundational Principles
 
-## Moore's Law
-
-## Universal Turning Machines
-
-## Economies of Scale
-
-## UNIX Philosophy
-
 ## Scientific Method
 
 - Define a question
@@ -18,3 +10,30 @@
 - Interpret the data and draw conclusions that serve as a starting point for new hypothesis
 - Publish results
 - Retest (frequently done by other scientists)
+
+## Theory of Computation
+
+- Data Structures and Algorithms
+- Theory of Computation (Universal Turing Machine)
+- Information and Coding Theory
+- Programming Language Theory
+- Computer Architecture
+- Computer Performance Analysis
+- Concurrent, Parallel and Distributed Systems
+- Computer Networks
+- Computer Security and Cryptography
+- Databases and Structured Data
+- Computer Graphics and Visualization
+- Human–Computer Interaction
+- Artificial intelligence and Machine Learning
+- Software Engineering (UNIX Philosophy)
+
+## Theory of Software Business
+
+- Moore's Law
+- Crossing the Chasm
+- Economies of Scale
+
+---
+
+Return to [READ ME](../README.md)
