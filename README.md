@@ -48,3 +48,9 @@ See [Code of Conduct](CODE_OF_CONDUCT.md)
 See [License](LICENSE)
 
 ## Credits and Inspirations
+
+I have to admit that this project was inspired by Ray Dalio book _Principles_, which I ran into at at an Andreessen Horowitz conference. Ray spoke at the conference and the book was handed out to the attendees for free. Ray is a controversial figure in tech and finance and I would not have read his book had I not heard him talk. It's not that I shy away from controversy, it just that I didn't understand there was a method to Ray's madness: radial transparency, hyper honesty, super open-mindedness, etc.... All potentially good strategics, mostly not _principles_. But why quibble? The idea that an summary of principles, values, and strategies that improve a profession was inspired by Ray efforts. (I'm not endorsing or criticizing Ray. I'm glad he shared his framework.)
+
+As of this moment _SWE Principles, Values, Strategies_ is a solo effort. I'm hopeful that other experienced and thoughtful software engineering leaders will volunteer to contribute. I have many more questions than answers and I welcome all the help I can get.
+
+Long term I hope all the "I"s in this document become "We"s.
