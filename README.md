@@ -21,11 +21,9 @@ See [Discussion of SWE Principles, Values, Strategies](text/Discussion.md)
 
 ## Foundational Principles
 
-- Moore's Law
-- Universal Turning Machines
-- Economies of Scale
-- UNIX Philosophy
 - Scientific Method
+- Theory of Computation
+- Theory of Software Business
 
 See [SWE PVS Foundational Principles](text/Foundations.md)
 
