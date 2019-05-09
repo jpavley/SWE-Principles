@@ -26,4 +26,8 @@ I created this list of principles, values, and strategies for myself, so that I 
 
 One of the core principles is the principle of sharing[8], which is why we have free software and open source. The principle of sharing has enabled software engineering to evolve quickly and deeply change the nature of human existence. Much of the code found in the transformation software products created by the companies I've worked at, Apple, DoubleClick, Spotify, to name a few, has been built on open source and therefore on the principle of sharing. The next time you text a message, buy a product, or listen to a song, on line or off,remember that shared code is probably the majority of the code that made that action happen.
 
-I need to share what I practice.
+We need to share what we practice.
+
+---
+
+Return to [READ ME](../README.md)
