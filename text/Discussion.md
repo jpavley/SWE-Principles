@@ -6,7 +6,7 @@ It's common for the words _principle_, _value_, and _strategy_ to be used interc
 
 For example, that that is only one human species is a fact of science and principle the human condition. That all people are created equal endowed with "unalienable rights; that among these are life, liberty, and the pursuit of happiness" is a value that we work hard to realize in our work and lives. That we have laws in place to ensure that we hold ourselves accountable to the principle of _one human species_ and the value of _unalienable right_ is strategy.
 
-It is easy to see that verifiable principles form the foundation upon which beneficial values are based and values form the foundation upon which effective strategies are based.
+It is easy to see that verifiable scientific principles form the foundation upon which beneficial values are based and values form the foundation upon which effective strategies are based.
 
 Values rooted in principles generally persist over time while values rooted in opinion tend to fade over time. Because we understand the principles of human biology we realize that women are the equal of men, and that we must reject the values of cultures where biological principles are not respected.
 
@@ -23,3 +23,7 @@ Like the principles that underlie Geometry, Biology, and Physics (triangles, evo
 I hope to do this for the software engineering activities that underlie infrastructure, source code, development process, logical design (architecture), software security, development culture, product design, product delivery (communication, collaboration), and management.
 
 As these principles are discovered and not invented I hope that "I" becomes a "we" and that more software engineers just me participate in this passion project.
+
+---
+
+Return to [READ ME](../README.md)
