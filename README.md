@@ -43,7 +43,7 @@ See [Code of Conduct](CODE_OF_CONDUCT.md)
 - MIT License
 - Just preserve the copyright and license notices
 - OK to modify and distribute
-- OK for private and commerical use
+- OK for private and commercial use
 
 See [License](LICENSE)
 
