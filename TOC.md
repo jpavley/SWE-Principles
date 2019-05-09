@@ -8,8 +8,6 @@
 
 ## Infrastructure
 
-## Introduction
-
 ## Management
 
 ## Operations

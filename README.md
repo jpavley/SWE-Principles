@@ -19,6 +19,32 @@ See [Introduction to SWE Principles, Values, Strategies](text/Introduction.md)
 
 See [Discussion of SWE Principles, Values, Strategies](text/Discussion.md)
 
+## Foundational Principles
+
+- Moore's Law
+- Universal Turning Machines
+- Economies of Scale
+- UNIX Philosophy
+- Scientific Method
+
+See [SWE PVS Foundational Principles](text/Foundations.md)
+
+## SWE PVS Table of Contents
+
+- Architecture
+- Code
+- Culture
+- Infrastructure
+- Management
+- Operations
+- Process
+- Product
+- Quality
+- Security
+
+See [SWE PVS Table of Contents](text/TOC.md)
+
+
 ## How to Contribute
 
 - What we're looking for
