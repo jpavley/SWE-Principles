@@ -29,16 +29,16 @@ See [SWE PVS Foundational Principles](text/Foundations.md)
 
 ## SWE PVS Table of Contents
 
-- Architecture
-- Code
-- Culture
-- Infrastructure
-- Management
-- Operations
-- Process
-- Product
-- Quality
-- Security
+- Architecture (SOLID)
+- Code (Internal Open Source)
+- Culture (Remote Only)
+- Infrastructure (Cloud)
+- Management (Situational)
+- Operations (DevOps)
+- Process (Agile)
+- Product (MVP)
+- Quality (Fitness)
+- Security (OWASP)
 
 See [SWE PVS Table of Contents](TOC.md)
 

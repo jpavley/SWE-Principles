@@ -1,1 +1,1 @@
-# Management (Coaching)
+# Management (Situational)
