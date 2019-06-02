@@ -18,3 +18,5 @@
 - Dependency Inversion Principle
   - Depend on interfaces and protocols
   - High level doesn’t depend on low level
+
+Return to [Table of Contents](../TOC.md)
