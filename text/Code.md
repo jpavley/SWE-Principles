@@ -1,14 +1,17 @@
 # Source Code (Internal Open Source)
 
-- Well maintained repo
-- Monorepo
-- Open repo
-- Complete documentation
+- Strict Source Code Control
+- Clone for Reading
+- Pull Requests for Writing
+- Feature Branches
+- Robust Documentation
   - Guides
   - READMEs
   - HOWTOs
   - Runbooks
-- Shared ownership
-- Pull requests
-- Code reviews
-- Code of conduct
+- Shared Ownership
+- Code of Conduct
+- Clear Licensing
+- Clear Attribution
+
+Return to [Table of Contents](../TOC.md)

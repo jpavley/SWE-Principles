@@ -14,6 +14,20 @@ See [Architecture](text/Architecture.md)
 
 ## Code (Internal Open Source)
 
+We have found that the benefits of open source are so superior to _closed source_ that all source code benefits by treated as open source, even if, or especially if, there is no intention of opening it to the public.
+
+- Strict Source Code Control
+- Clone for Reading
+- Pull Requests for Writing
+- Feature Branches
+- Robust Documentation
+- Shared Ownership
+- Code of Conduct
+- Clear Licensing
+- Clear Attribution
+
+See [Code](text/Code.md)
+
 ## Culture (Remote Only)
 
 ## Infrastructure (Cloud)
