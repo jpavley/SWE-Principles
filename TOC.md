@@ -1,24 +1,35 @@
 # SWE PVS Table Of Contents
 
-## Architecture
+## Architecture (SOLID)
 
-## Code
+We view software architecture as a discipline of _logical design_. Our core strategy for ensuring excellence in logical design is SOLID. We believe that SOLID represents a set of software design strategies which apply to all paradigms of software development (not just OOP), especially in an agile development process context.
 
-## Culture
+- Single Responsibility Principle
+- Open-Closed Principle
+- Liskov Substitution Principle
+- Interface Segregation Principle
+- Dependency Inversion Principle
 
-## Infrastructure
+See [Architecture](text/Architecture.md)
 
-## Management
+## Code (Internal Open Source)
 
-## Operations
+## Culture (Remote Only)
 
-## Process
+## Infrastructure (Cloud)
 
-## Product
+## Management (Situational)
 
-## Quality
+## Delivery (DevOps)
 
-## Security
+## Process (Agile)
+
+## Product (MVP)
+
+## Quality (Fitness)
+
+## Security (OWASP)
+
 
 ---
 
