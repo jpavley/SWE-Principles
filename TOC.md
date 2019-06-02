@@ -30,7 +30,6 @@ See [Architecture](text/Architecture.md)
 
 ## Security (OWASP)
 
-
 ---
 
 Return to [READ ME](README.md)
