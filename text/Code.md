@@ -1,5 +1,11 @@
 # Source Code (Internal Open Source)
 
+## Sources
+
+- <https://innersourcecommons.org>
+- <https://sethrobertson.github.io/GitBestPractices/>
+
+
 ## Strict Source Code Control
 
 ## Clone for Reading
