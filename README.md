@@ -21,9 +21,13 @@ See [Discussion of SWE Principles, Values, Strategies](text/Discussion.md)
 
 ## Foundational Principles
 
-- Scientific Method
-- Theory of Computation
-- Theory of Software Business
+- Probability and Principles
+- Statistical Significance and Principles
+- Theory of Science (Likely Principles)
+- Theory of Computation (Likely Principles)
+- Theory of Cognitive Bias (Possibly Principles)
+- Theory of Economics (Possibly Principles)
+- Theory of Business (Possibly Principles)
 
 See [SWE PVS Foundational Principles](text/Foundations.md)
 
