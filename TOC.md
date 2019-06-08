@@ -30,6 +30,8 @@ See [Code](text/Code.md)
 
 ## Culture (Remote Only)
 
+In this modern era with excellent tools for management and coordination of a distributed workforce and the ongoing [Software Crisis](https://en.wikipedia.org/wiki/Software_crisis) we have found the ideas of a _central office_ and _co-located resources_ to be antiquated and obstacles to success in delivery of software. This is not to say that co-located teams are not more effective and more efficient than distributed teams. We just don't have that luxury.
+
 - No Central Location
 - Flexible Work Hours
 - Recorded Knowledge
