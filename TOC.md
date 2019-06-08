@@ -31,14 +31,14 @@ See [Code](text/Code.md)
 ## Culture (Remote Only)
 
 - No Central Location
-- Flexible Work Hours (not set hours)
-- Recorded Knowledge (not meetings)
-- Recorded Training (no on-the-job)
-- Liberal Access to Information (not need-to-know)
-- Version Control (not change control)
+- Flexible Work Hours
+- Recorded Knowledge
+- Recorded Training
+- Liberal Access to Information
+- Version Control
 - Asynchronous Communications
 - Work/Value Measured in Results
-- Formal Channels (not informal)
+- Formal Channels
 
 See [Code](text/Culture.md)
 
