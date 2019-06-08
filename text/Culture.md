@@ -1,6 +1,9 @@
 # Culture (Remote Only)
 
-Source: <https://www.remoteonly.org>
+## Sources
+
+- <https://www.remoteonly.org>
+- <https://innersourcecommons.org>
 
 ## No Central Location
 
