@@ -1,5 +1,10 @@
 # Architecture (SOLID)
 
+## Sources
+
+- <https://sites.google.com/site/unclebobconsultingllc/getting-a-solid-start>
+- <https://en.wikipedia.org/wiki/SOLID>
+
 ## Single Responsibility Principle
 
 - One reason to change
