@@ -28,7 +28,18 @@ We have found that the benefits of open source are so superior to _closed source
 
 See [Code](text/Code.md)
 
-## Culture (Remote Only)
+- Culture (Remote Only)
+- No Central Location
+- Flexible Work Hours (not set hours)
+- Recorded Knowledge (not meetings)
+- Recorded Training (no on-the-job)
+- Liberal Access to Information (not need-to-know)
+- Version Control (not change control)
+- Asynchronous Communications
+- Work/Value Measured in Results
+- Formal Channels (not informal)
+
+See [Code](text/Culture.md)
 
 ## Infrastructure (Cloud)
 
