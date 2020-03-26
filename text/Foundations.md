@@ -58,6 +58,8 @@ It is quite possible that all these so-called _principles_ are observations of s
 - Crossing the Chasm
 - Economies of Scale
 - Network Effects
+- Core vs. Context
+- Theory of Constraints
 
 ---
 
